@@ -35,7 +35,7 @@ PRESENTS
     box-sizing: border-box;
 }
 body{
-    background: linear-gradient(to bottom, rgba(11, 14, 19, .4), rgba(11, 14, 19, .85)), url(/assets/images/background/hill3-bg.gif) no-repeat center / cover fixed;
+    background: linear-gradient(to bottom, rgba(11, 14, 19, .4), rgba(11, 14, 19, .85)), url(../images/background/hill3-bg.gif) no-repeat center / cover fixed;
     color: var(--colorp);
     background-color: var(--colorbody); 
     font-family: var(--ff);
